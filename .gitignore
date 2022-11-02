@@ -1,0 +1,5 @@
+.python-version
+.env
+secrets.json
+auth/
+venv/
